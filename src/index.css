@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+html{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    margin: 0;
+    background-color: rgba(30, 162, 199, 0.123);
+}
+h1, h2, h3, ul, hr{
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+input{
+    outline: none;
+    width: 40px;
+    height: 20px;
+
+    font-family: inherit;
+    border: none;
+
+}
+button{
+    font-family: inherit;
+    height: 24px;
+    background-color: rgb(12, 185, 41);
+    border: none;
+}
+img{
+    width: 100%;
+    display: block;
+}
